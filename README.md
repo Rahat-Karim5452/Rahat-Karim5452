@@ -1,5 +1,4 @@
-<h1>Rahat Karim | Full Stack Developer</h1>
- <div align="center">
+<div align="center">
 
 <img src="https://github.com/Rahat-Karim5452/Rahat-Karim5452/blob/main/Github%20banner.png" alt="Rahat Karim - Full Stack Developer" width="100%" />
 
