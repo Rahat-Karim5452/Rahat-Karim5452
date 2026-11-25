@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-FF7A00?style=for-the-badge" alt="Open to Opportunities" />
 <img src="https://img.shields.io/badge/Location-Chittagong%2C_Bangladesh-161B22?style=for-the-badge" alt="Location" />
 <a href="mailto:rahatkarim5452@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-161B22?style=for-the-badge&labelColor=FF7A00" alt="Email" /></a>
-
 <br /><br />
 
 <a href="#about-me">About</a> &nbsp;·&nbsp;
